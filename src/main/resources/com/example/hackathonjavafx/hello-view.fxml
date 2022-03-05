@@ -30,7 +30,7 @@
          <content>
            <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="404.0" prefWidth="556.0">
                   <children>
-                     <Button id="start_button" layoutX="14.0" layoutY="230.0" mnemonicParsing="false" prefHeight="70.0" prefWidth="104.0" text="START" textFill="#18c113">
+                     <Button id="start_button" fx:id="start_button" layoutX="14.0" layoutY="230.0" mnemonicParsing="false" onAction="#somethingButton" prefHeight="70.0" prefWidth="104.0" text="START" textFill="#18c113">
                         <font>
                            <Font size="20.0" />
                         </font>
@@ -45,7 +45,7 @@
                            <Font size="20.0" />
                         </font>
                      </Button>
-                     <Label id="hour_value" layoutX="61.0" layoutY="28.0" prefHeight="94.0" prefWidth="71.0" text="00">
+                     <Label id="hour_value" fx:id="hour" layoutX="61.0" layoutY="28.0" prefHeight="94.0" prefWidth="71.0" text="00">
                         <font>
                            <Font size="65.0" />
                         </font>
