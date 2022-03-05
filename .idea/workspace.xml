@@ -4,12 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="6e1beab1-5a37-427f-95ad-db986777b51d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/libraries/lib.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/hackathonjavafx/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/hackathonjavafx/HelloController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/hackathonjavafx/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/hackathonjavafx/hello-view.fxml" afterDir="false" />
     </list>
+=======
+    <list default="true" id="6e1beab1-5a37-427f-95ad-db986777b51d" name="Changes" comment="" />
+>>>>>>> ee62fbedea877cbe4254aeea086e612dfd38fb48
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
